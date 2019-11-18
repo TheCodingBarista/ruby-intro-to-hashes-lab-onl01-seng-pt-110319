@@ -7,8 +7,6 @@ def actor
 end
 
 def monopoly
-	monopoly = {}
-def monopoly
   monopoly = {
     railroads: {}
   }
